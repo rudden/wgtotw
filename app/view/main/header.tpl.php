@@ -1,0 +1,2 @@
+<h1 class="brand-title"><a href='<?= $this->di->get('url')->create('') ?>'><?= isset($title) ? $title : "Sample Text" ?></a></h1>
+<h2 class="brand-tagline"><?= isset($tagline) ? $tagline : "Sample Additional Lorem Ipsum" ?></h2>

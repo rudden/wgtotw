@@ -1,0 +1,1 @@
+![me](img/me/me.png)Simon Rudén läser kurspaketet Databaser, HTML, CSS, JavaScript och PHP vid BTH på kvartsfart. Utöver sitt inte så längre nyblivna intresse för webbprogrammering så arbetar han fulltid med TV och följer den europeiska fotbollen.
